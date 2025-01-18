@@ -1,0 +1,19 @@
+{
+  "name": "particles.js",
+  "main": "particles.js",
+  
+  
+
+  "keywords": [
+    "particle",
+    "particles"
+  ],
+
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
