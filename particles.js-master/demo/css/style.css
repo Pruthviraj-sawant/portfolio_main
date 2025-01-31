@@ -642,7 +642,13 @@ li{list-style:none}
        display: flex;
        gap: 1rem;
    }
-   
+   .contactus-form {
+    position: relative;
+    z-index: 10; /* Higher z-index to appear above particles */
+    background: rgba(255, 255, 255, 0.9); /* Optional: Adds background for visibility */
+    padding: 20px;
+    border-radius: 10px;
+}
    
    /* Responsive Styles */
    @media screen and (max-width: 1200px) {
